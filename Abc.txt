@@ -8,3 +8,4 @@ print (a+b+c)
 
 Hello
 Hi
+bye
